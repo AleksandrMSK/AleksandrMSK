@@ -14,11 +14,10 @@
 
 <br />
 
-Привет, меня зовут Александр я разработчик компании SENLA так же препадаю лекции по Java core в IT Academy
+Приветствую, меня зовут Александр я backend разработчик компании SENLA.
+так же препадаю Java SE в IT Academy :)
 
 <br />
-
-<img align="right" alt="GIF" src="https://sun9-5.userapi.com/impf/c830509/v830509165/11806/EawK_qne4ak.jpg?size=1838x1838&quality=96&sign=ce18de8cd5a5b12f8db37719473953ad&type=album" width="300" height="300" />
   
 **Languages and Tools:**  
 
