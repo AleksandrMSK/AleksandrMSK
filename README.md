@@ -1,6 +1,5 @@
-### Hi there 👋
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://vk.com/your_profile">
+<a href="[https://vk.com/your_profile](https://vk.com/id105622192)">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <a href="https://www.linkedin.com/in/your_profile">
@@ -19,17 +18,23 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://sun9-5.userapi.com/impf/c830509/v830509165/11806/EawK_qne4ak.jpg?size=1838x1838&quality=96&sign=ce18de8cd5a5b12f8db37719473953ad&type=album" width="300" height="300" />
   
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="40" src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg"></code>
+<code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg"></code>
+<code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png"></code>
+<code><img height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></code>
+<code><img height="40" src="https://download.logo.wine/logo/Apache_Groovy/Apache_Groovy-Logo.wine.png"></code><br>
+<code><img height="40" src="https://e7.pngegg.com/pngimages/508/156/png-clipart-gradle-computer-icons-transparency-logo-scalable-graphics-share-to-mammal-text.png"></code>
+<code><img height="40" src="https://assets.stickpng.com/images/62a78cbfe42d729d928b174e.png"></code>
+<code><img height="40" src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png"></code>
+<code><img height="40" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1024px-Cassandra_logo.svg.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png"></code>
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
